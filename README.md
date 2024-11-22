@@ -1,4 +1,4 @@
-Web Development intern at BizzNEST
+Web Development Intern at BizzNEST
 
 ## Skills
 ### Languages
